@@ -3,6 +3,7 @@ voice_module/server/
 voice_module/xiaokai/
 utils/hiredis/
 utils/redis-plus-plus/ 
+main_module/
 *.pt
 .DS_Store
 *.log

@@ -1,0 +1,6 @@
+realtime_system:
+  robot_base_position: [0.0, 0.0, 0.0]
+  capsule_radius: 0.05
+  cube_size: 0.4
+  enable_prediction: false
+  realrobot: true
