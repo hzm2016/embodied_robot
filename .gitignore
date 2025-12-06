@@ -1,0 +1,17 @@
+navigation/data/
+voice_module/server/
+voice_module/xiaokai/
+utils/hiredis/
+utils/redis-plus-plus/ 
+*.pt
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+*.stl
+*.obj
+*.fbx
+*.mtl
